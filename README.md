@@ -1,8 +1,7 @@
-## Hi there 👋
 <h1 align="center">👋 Welcome to My GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Student%20at%2042%20Yerevan;C%2FC%2B%2B%20Developer;Embedded%20Systems%20Enthusiast;Always%20learning%20new%20things...&center=true&width=440&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Student%20at%2042%20Yerevan;C%2FC%2B%2B%20Developer;Always%20learning%20new%20things...&center=true&width=440&height=45">
 </p>
 
 ---
